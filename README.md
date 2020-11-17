@@ -10,7 +10,8 @@
 - 📫 How to reach me **pranavkulkarni1024@gmail.com**
 
 - ⚡ Swami Vivekananda said  **"Arise, awake, and stop not till the goal is reached"**
-- 📫 How to <b>reach me:</b><t><a href="https://twitter.com/Pranav102432"><img align="left" alt="Pranav's's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pranavkulkarni15/"><img align="left" alt="Pranav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/pboi1511"><img align="left" alt="Pranav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+- 📫 How to <b>reach me:</b><t>
+ <a href="https://twitter.com/Pranav102432"><img align="left" alt="Pranav's's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pranavkulkarni15/"><img align="left" alt="Pranav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/pboi1511"><img align="left" alt="Pranav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
