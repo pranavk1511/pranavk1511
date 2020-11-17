@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs,NodeJS**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/pboi1511">here</a>
+- 👨‍💻 All of my projects are available <a href="https://github.com/pboi1511">here</a>
 
 - 💬 Ask me about **Books,Physics,Philosophy**
 
