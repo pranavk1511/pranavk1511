@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Books,Physics,Philosophy**
 
-- 📫 How to reach me **pranavkulkarni1024@gmail.com**
+- 📫 Mail me @ **pranavkulkarni1024@gmail.com**
 
 - ⚡ Swami Vivekananda said  **"Arise, awake, and stop not till the goal is reached"**
 - 📫 How to <b>reach me:</b><br><br>
