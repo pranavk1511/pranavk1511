@@ -10,7 +10,7 @@
 - 📫 How to reach me **pranavkulkarni1024@gmail.com**
 
 - ⚡ Swami Vivekananda said  **Arise, awake, and stop not till the goal is reached**
-- 📫 How to <b>reach me:</b><br/>
+- 📫 How to <b>reach me:
 <br/>
 <a href="https://twitter.com/Pranav102432">
 <img align="left" alt="Pranav's's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
