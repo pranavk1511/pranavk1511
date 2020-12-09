@@ -1,18 +1,34 @@
-<h1 align="center">Hello👋, I am  Pranav Kulkarni</h1>
-<h3 align="center">Just an Average Programmer who loves to solve problem</h3>
+### Hi there, I'm Pranav👋
 
-- 🌱 I’m currently learning **ReactJs,NodeJS**
+- [ ] 🌱 Currently working on MERN Stack
+- [ ] 🥅 2020 Goals: Contribute more to Open Source projects , Learn New Things
+- [ ] ⚡ I love to play video games
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/pboi1511">here</a>
 
-- 💬 Ask me about **Books,Physics,Philosophy**
+### Tools & Technology:
+```yaml
+{
+  "frontend": {
+    "framework/library": "react.js",
+    "ui": ["html", "css","javascript"]
+  },
+  "backend": ["node.js", "express.js"],    //mostly node/express
+  "database": ["mongodb", "mysql"],         // mostly mongodb
+  "ide": ["vs code <3 "],                     
+}
+```
+### Favourite Stack
+<img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br/>
 
-- 📫 Mail me @ **pranavkulkarni1024@gmail.com**
+### Connect w/ Me:
 
-- ⚡ Swami Vivekananda said  **"Arise, awake, and stop not till the goal is reached"**
-- 📫 How to <b>reach me:</b><br><br>
-<t><t><a href="https://twitter.com/Pranav102432"><img align="left" alt="Pranav's's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/pranavkulkarni15/"><img align="left" alt="Pranav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/pboi1511"><img align="left" alt="Pranav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><br>
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pranavkulkarni1024@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+[twitter]: https://twitter.com/Pranav102432
+[linkedin]: https://www.linkedin.com/in/pranavkulkarni15/
