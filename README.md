@@ -1,6 +1,7 @@
 ### Hi there, I'm Pranav👋
 
 - [ ] 🌱 Currently working on MERN Stack
+- [ ] 🤑 Exploring Cryptocurrency , Metaverse and DAO's 
 - [ ] 🥅 2020 Goals: Contribute more to Open Source projects , Learn New Things
 - [ ] ⚡ I love to play video games
 
