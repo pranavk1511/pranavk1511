@@ -13,8 +13,8 @@
     "framework/library": "react.js",
     "ui": ["html", "css","javascript"]
   },
-  "backend": ["node.js", "express.js"],    //mostly node/express
-  "database": ["mongodb", "mysql"],         // mostly mongodb
+  "backend": ["node.js", "express.js" , "Java" , "Springboot"],    
+  "database": ["mongodb", "mysql"],         
   "ide": ["vs code <3 "],                     
 }
 ```
