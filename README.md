@@ -1,5 +1,7 @@
 ### Hi there, I'm Pranav👋
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+
 - [ ] 🌱 Currently working on MERN Stack
 - [ ] 🤑 Exploring Cryptocurrency , Metaverse and DAO's 
 - [ ] 🥅 2022 Goals: Contribute more to Open Source projects 
