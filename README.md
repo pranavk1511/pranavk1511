@@ -35,3 +35,7 @@
 
 [twitter]: https://twitter.com/Pranav102432
 [linkedin]: https://www.linkedin.com/in/pranavkulkarni15/
+
+### Visitor Count:
+
+![Visitor Count](https://profile-counter.glitch.me/pranavk1511/count.svg)
