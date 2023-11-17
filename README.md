@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
-- [ ] 🌱 Currently working on MERN Stack
-- [ ] 🤑 Exploring Cryptocurrency , Metaverse and DAO's 
-- [ ] 🥅 2022 Goals: Contribute more to Open Source projects 
+- [ ] 🌱 Currently working on MERN Stack , Kubernetes and DevSecOps . 
+- [ ] 🤑 Exploring Music , Machines & People 
+- [ ] 🥅 2023 Goals: Get a GOOD JOB !! 
 - [ ] ⚡ I love to play video games
 
 
