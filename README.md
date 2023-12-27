@@ -16,7 +16,8 @@
     "ui": ["html", "css","javascript"]
   },
   "backend": ["node.js", "express.js" , "Java" , "Springboot"],    
-  "database": ["mongodb", "mysql"],         
+  "database": ["mongodb", "mysql"],
+  "cloud": ["AWS","GCP","Azure"]        
   "ide": ["vs code <3 "],                     
 }
 ```
