@@ -37,10 +37,6 @@
 [twitter]: https://twitter.com/Pranav102432
 [linkedin]: https://www.linkedin.com/in/pranavkulkarni15/
 
-### Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavk1511&" alt="pranavk1511" /></p>
-
 ### Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/pranavk1511/count.svg)
