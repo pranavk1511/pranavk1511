@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
-- [ ] 🌱 Currently working on MERN Stack , Kubernetes and DevSecOps . 
+- [ ] 🌱 Currently working on MERN Stack, Kubernetes and DevSecOps. 
 - [ ] 🤑 Exploring Music , Machines & People 
 - [ ] 🥅 2023 Goals: Get a GOOD JOB !! 
 - [ ] ⚡ I love to play video games
@@ -15,7 +15,7 @@
     "framework/library": "react.js",
     "ui": ["html", "css","javascript"]
   },
-  "backend": ["node.js", "express.js" , "Java" , "Springboot"],    
+  "backend": ["node.js", "express.js" , "Java" , "Springboot" , "python" , "Flask"],    
   "database": ["mongodb", "mysql"],
   "cloud": ["AWS","GCP","Azure"]        
   "ide": ["vs code <3 "],                     
