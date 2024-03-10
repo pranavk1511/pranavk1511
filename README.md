@@ -42,6 +42,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/pranavk1511/count.svg)
 
 
-### LeetCode Grind 
-
-![Leetocde](https://leetcode-badge-sage.vercel.app/badge/{Pranavk_1024}?theme={dark})
