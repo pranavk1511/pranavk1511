@@ -4,7 +4,7 @@
 
 - [ ] 🌱 Currently working on MERN Stack, Kubernetes and DevSecOps. 
 - [ ] 🤑 Exploring Music , Machines & People 
-- [ ] 🥅 2023 Goals: Get a GOOD JOB !! 
+- [ ] 🥅 2024 Goals: Try to stay alive !!
 - [ ] ⚡ I love to play video games
 
 
